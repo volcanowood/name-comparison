@@ -21,13 +21,13 @@
 吊顶龙骨框架|Ceiling grid|Ceiling grid|吊顶龙骨|***
 地面找平材料|Self-leveling compound|Screed|自流平|***
 墙面抹灰层|Plaster|Plaster|抹灰层|***
-瓷砖填缝剂|Grout|Grout|美缝剂|****
+填充瓷砖接缝的材料，可为水泥基或环氧等；不专指中文商业语境中的美缝剂，也不是瓷砖粘结砂浆|Grout (Tile grout)|Tile grout|瓷砖填缝剂（非专指美缝剂）|****
 卫生间防水层|Waterproof membrane|Tanking|防水层|****
 电路断路器|Circuit breaker|Circuit breaker|断路器|****
 电线穿线管|Conduit|Conduit|线管|****
 灯具开关|Light switch|Light switch|电灯开关|*****
-电源插座类型（双孔）|Duplex outlet|Double socket|双孔插座|*****
-电源插座类型（三孔）|GFCI outlet|RCD socket|三孔插座|*****
+同一器件上设两个插接位置；duplex指双联，不指插孔数量|Duplex receptacle (Duplex outlet)|Twin socket outlet (UK; configurations differ)|双联插座|*****
+检测接地故障并切断电源的保护型插座；不是按三孔分类，RCD仅为近似功能术语|GFCI receptacle (GFCI outlet)|RCD-protected socket outlet (UK; not identical)|接地故障保护插座（GFCI）|*****
 中央空调出风口|Air vent|Air vent|空调风口|***
 暖气片|Radiator|Radiator|暖气片|***
 厨房水槽|Kitchen sink|Kitchen sink|厨房水槽|*****
@@ -145,15 +145,15 @@
 楼梯踏步高度规范|Riser height|Riser height|踏步高度|*****
 无障碍斜坡坡度|Access ramp|Access ramp|无障碍坡道|****
 钢结构防火涂料|Fireproof coating|Fireproof coating|防火涂料|****
-玻璃幕墙结构胶|Silicone sealant|Silicone sealant|硅酮胶|*****
+硅酮密封材料；普通密封胶不能直接替代经设计及验证的结构玻璃装配用胶|Silicone sealant|Silicone sealant|硅酮密封胶|*****
 混凝土裂缝修补剂|Concrete repair|Concrete repair|补缝剂|***
-瓷砖背胶粘合剂|Tile adhesive|Tile adhesive|瓷砖胶|*****
+粘贴瓷砖的胶粘材料统称；应区分水泥基砂浆、预拌胶及其他产品，不等于液体瓷砖背胶|Tile adhesive|Tile adhesive|瓷砖胶粘剂|*****
 木地板伸缩缝预留|Expansion gap|Expansion gap|伸缩缝|*****
-防水卷材搭接处理|Flashing|Flashing|防水卷材搭接|****
+在洞口、接缝及屋面等处导排雨水的泛水构造，可用金属或膜材，不仅指卷材搭接|Flashing|Flashing|泛水/防水收边构造|****
 石膏板接缝绷带|Joint tape|Joint tape|接缝带|****
 墙面阳角保护条|Corner bead|Corner bead|阳角条|****
 地漏防臭水封设计|Trap|Trap|存水弯|*****
-卫生间同层排水|Screed drainage|Screed drainage|同层排水|****
+管道在所服务楼层内布置的排水设计概念；无统一北美直译，须用图纸说明，Screed drainage不是通用对应词|Same-floor drainage arrangement (descriptive; verify layout)|Same-floor drainage arrangement (descriptive)|同层排水（需附系统说明）|****
 中央空调风管材质|Ductwork|Ductwork|风管|****
 新风系统过滤网|Air filter|Air filter|滤网|*****
 暖气分室温控阀|Thermostatic valve|Thermostatic valve|温控阀|****
@@ -162,37 +162,37 @@
 隐形地漏盖板|Linear drain grate|Linear drain grate|隐形地漏|****
 电梯井道隔音层|Elevator shaft insulation|Elevator shaft insulation|电梯井隔音|***
 钢结构防火包覆|Fireproof cladding|Fireproof cladding|防火包覆|****
-轻钢龙骨石膏板隔墙系统|Drywall partition|Plasterboard partition|轻钢龙骨石膏板隔墙|*****
-防火性能石膏板|Fire-rated drywall|Fire-resistant plasterboard|防火石膏板|****
-防水石膏板（用于潮湿区域）|Green board|Moisture-resistant plasterboard|防水石膏板|****
+石膏板覆面的隔墙，可用木龙骨或钢龙骨；原称轻钢龙骨石膏板隔墙是其中一种|Drywall partition|Plasterboard partition|石膏板隔墙（木龙骨或轻钢龙骨）|*****
+具有增强耐火性能的石膏板，如Type X；耐火时限由完整且符合测试要求的墙体或楼板系统确定|Type X gypsum board (Fire-resistant drywall / Fire-rated drywall)|Fire-resistant plasterboard|耐火石膏板（防火石膏板）|****
+防潮石膏板；Green board为俗称，耐潮不等于防水，不能单独充当淋浴湿区防水层|Moisture-resistant drywall (Green board / Greenboard)|Moisture-resistant plasterboard|防潮石膏板|****
 木工用胶合板（多层薄木压制）|Plywood|Plywood|胶合板|*****
 中密度纤维板（MDF）|MDF|MDF|中纤板|****
 刨花板（颗粒板）|Particle board|Chipboard|刨花板|****
 细木工板（大芯板）|Blockboard|Blockboard|大芯板|****
 欧松板（定向结构刨花板）|OSB|OSB|欧松板|****
-水泥纤维板（外墙/浴室用）|Cement board|Cement board|水泥板|****
+水泥基板，常用作瓷砖背衬；不等同于纤维水泥外墙板，板材本身不代表完整防水系统|Cement board (Cement backer board)|Cement backer board|水泥板/水泥基瓷砖背衬板|****
 硅酸钙板（防火吊顶材料）|Calcium silicate board|Calcium silicate board|硅酸钙板|****
-普通单芯铜线（硬线）|Solid wire|Solid core wire|单芯硬线|*****
-多股绞合铜线（软线）|Stranded wire|Stranded wire|多芯软线|*****
+导体由一根实心金属线组成；solid描述导体结构，不代表整条电缆只有一芯或必为铜|Solid wire|Solid conductor|实心导线（俗称单股硬线）|*****
+单个导体由多根金属丝绞合；stranded不等于多芯电缆|Stranded wire|Stranded conductor|绞合导线（多股线，非多芯线）|*****
 护套线（带绝缘外层）|Sheathed cable|Sheathed cable|护套线|*****
-接地线（黄绿色）|Ground wire|Earth wire|接地线|*****
+口语ground wire可能指设备搭接导体；加拿大专业用语区分bonding conductor与连接接地极的grounding conductor，不应只按黄绿颜色判断|Ground wire (clarify bonding conductor or grounding conductor)|Protective conductor / Earthing conductor (functions differ)|接地线（须区分搭接导体与接地导体）|*****
 双绞线（网络信号传输）|Twisted pair cable|Twisted pair cable|网线|*****
 阻燃电线（低烟无卤）|FR-LSZH cable|FR-LSZH cable|阻燃电线|*****
-电缆规格（截面积平方毫米）|AWG (e.g., 12AWG)|mm² (e.g., 2.5mm²)|平方毫米（如2.5平方）|*****
+导体线规与截面积是不同表示方式；12 AWG约3.31 mm²，不等于2.5 mm²，截面积换算不代表可直接替换|AWG (American Wire Gauge; e.g., 12 AWG)|Conductor cross-sectional area in mm²|导体规格：AWG线规/平方毫米|*****
 穿线用波纹软管|Flexible conduit|Flexible conduit|波纹管|****
 方钢管（结构支撑用）|Square tube|Square hollow section|方管|****
 角钢（L型连接件）|Angle iron|Angle iron|角钢|****
-轻钢龙骨（吊顶/隔墙）|Metal stud|Metal stud|轻钢龙骨|*****
+金属竖向墙骨柱，常见为冷弯钢制；不泛指所有吊顶龙骨，承重与非承重规格须区分|Steel stud (Metal stud)|Metal stud|钢龙骨立柱（轻钢龙骨竖骨）|*****
 铝合金型材（门窗框架）|Aluminum profile|Aluminum profile|铝合金型材|****
 不锈钢螺丝（防锈处理）|Stainless steel screw|Stainless steel screw|不锈钢螺丝|*****
-自攻螺丝（无需预钻孔）|Self-tapping screw|Self-tapping screw|自攻螺丝|*****
+自行形成配合螺纹的螺钉，可能需要预钻孔；不等同于带钻头尖的self-drilling screw|Self-tapping screw|Self-tapping screw|自攻螺丝|*****
 膨胀螺栓（墙体固定用）|Anchor bolt|Anchor bolt|膨胀螺栓|****
 镀锌铁皮（防水防锈）|Galvanized sheet metal|Galvanized sheet metal|镀锌铁皮|****
 白乳胶（木材粘接）|PVA glue|PVA adhesive|白乳胶|*****
-结构胶（高强粘接）|Construction adhesive|Construction adhesive|结构胶|*****
+建筑材料粘接用胶；不能仅凭此名称认定为承重结构胶，须核对产品用途及设计要求|Construction adhesive|Construction adhesive|建筑胶粘剂（施工胶）|*****
 玻璃胶（密封防水）|Silicone sealant|Silicone sealant|玻璃胶|*****
 发泡胶（填充缝隙）|Spray foam|Expanding foam|发泡剂|****
-石膏粉（快速修补用）|Joint compound|Filler powder|石膏粉|*****
-瓷砖胶（增强粘结力）|Thinset mortar|Tile adhesive|瓷砖胶|*****
+石膏板接缝及表面修整材料，有预拌膏状和粉状产品，不等同于普通石膏粉|Joint compound (Drywall compound / Mud)|Jointing compound|石膏板嵌缝膏/接缝料|*****
+用于薄层粘贴瓷砖的水泥基砂浆，需核对基层及瓷砖适用性，不是填缝剂或液体背胶|Thinset mortar|Thin-bed tile mortar|薄贴瓷砖粘结砂浆（瓷砖胶）|*****
 木工钉（气枪专用）|Brad nail|Panel pin|气钉|*****
 水泥（普通硅酸盐）|Portland cement|Portland cement|水泥|*****
